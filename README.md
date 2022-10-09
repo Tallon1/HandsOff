@@ -1,5 +1,5 @@
 <h1 align="center">HandsOff<h1>
-<h4 align="center"> Motion-tracking software to enable the hands free operation of your display, demonstrated with a video player where different hand gestures correspond to different traditional functions such as play/pause. This software utilises OpenCV.</h4>
+<h4 align="center"> Motion-tracking software utilises OpenCV to enable the hands free operation of your display, demonstrated with a video player where different hand gestures correspond to different traditional functions such as play/pause.</h4>
  
  <hr>
 
